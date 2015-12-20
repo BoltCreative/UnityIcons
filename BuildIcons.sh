@@ -4,3 +4,10 @@ iconutil -c icns UnityAppIcon4.6x3.iconset
 iconutil -c icns UnityAppIcon5.1x1.iconset
 iconutil -c icns UnityAppIcon5.1x2.iconset
 iconutil -c icns UnityAppIcon5.1x3.iconset
+
+iconutil -c icns UnityAppIcon5.3x1.iconset
+iconutil -c icns UnityAppIcon5.3x2.iconset
+iconutil -c icns UnityAppIcon5.3x3.iconset
+
+
+
